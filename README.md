@@ -1,4 +1,7 @@
 # Tutorial-Chungbuk
 for the Tutorial
 #include <stdio.h>
-aa
+int main()
+{
+int a;
+}
